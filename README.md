@@ -1,4 +1,6 @@
 # SIH
+Author: Sayani Himadeephi
+<br>
 This is a prototype for Smart India Hackathon (SIH) 2023.
 <br>
 MINISTRY/ORGANISATION NAME: Ministry of power
